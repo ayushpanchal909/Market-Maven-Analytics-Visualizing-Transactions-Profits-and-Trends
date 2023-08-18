@@ -9,3 +9,9 @@ For geographical insights, a map was employed to illustrate revenue distribution
 ### Objective
 
 >What are the values of current month's transactions, total profits, and total returns in the dashboard?
+
+>Among Canada, Mexico, and the USA, which country has the highest total transactions based on the bubble sizes in the map?
+
+>Which categories or segments have the highest total transactions according to the tree map visualization?
+
+>What is the comparison between the actual revenue and the target revenue, as represented by the gauge chart?
