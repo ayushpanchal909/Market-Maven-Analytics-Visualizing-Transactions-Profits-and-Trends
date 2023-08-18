@@ -1,4 +1,4 @@
-# Maven-Market-Dashbord-project
+## Market Maven Analytics: Visualizing Transactions, Profits, and Trends
 
 In the Maven Market Dashboard project, I began by importing and cleaning various datasets. Afterward, I enriched the data by adding essential DAX measures and calculated columns to enhance analysis capabilities. I established logical relationships among calendar, customer, product, region, returns, store, and transaction date data. The dashboard was then crafted with key performance indicators (KPIs), including current month transactions, total profit, and overall returns.
 
@@ -15,3 +15,5 @@ For geographical insights, a map was employed to illustrate revenue distribution
 >Which categories or segments have the highest total transactions according to the tree map visualization?
 
 >What is the comparison between the actual revenue and the target revenue, as represented by the gauge chart?
+
+### Dashboard
